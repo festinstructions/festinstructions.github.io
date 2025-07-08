@@ -16,6 +16,11 @@
  * Base structure
  */
 
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
 body {
   background-color: var(--bs-dark); /* #212529 by default */
 }
